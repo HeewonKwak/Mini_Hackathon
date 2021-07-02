@@ -1,4 +1,4 @@
-# Mini_Hackathon
+# Mini_Hackathon(1등)
 
 2021년 6월 24 ~ 25일까지 이재화 강사님이 주최하는 광주 인공지능 사관학교 개발자 ONE DAY
 
